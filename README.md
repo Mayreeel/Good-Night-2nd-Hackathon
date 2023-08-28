@@ -9,7 +9,8 @@ https://github.com/techeer-sv/Good-Night-2nd-Hackathon-Frontend
 </p>
 
 - Next.js 버전 13.4
-- App router, SSR 일부 적용
+- App router
+- SSR 일부 적용
 
 
 ## 사용한 API
